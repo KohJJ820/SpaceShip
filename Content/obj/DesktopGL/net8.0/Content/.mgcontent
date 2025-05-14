@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Profile>Reach</Profile>
+  <Platform>DesktopGL</Platform>
+  <Config />
+  <SourceFiles>
+    <File>D:/MMU/Degree/Y3T1/Game_Algorithm/Lab/SpaceShip/Content/blue_1.png</File>
+    <File>D:/MMU/Degree/Y3T1/Game_Algorithm/Lab/SpaceShip/Content/blue_2.png</File>
+    <File>D:/MMU/Degree/Y3T1/Game_Algorithm/Lab/SpaceShip/Content/blue_3.png</File>
+    <File>D:/MMU/Degree/Y3T1/Game_Algorithm/Lab/SpaceShip/Content/crosshair179.png</File>
+    <File>D:/MMU/Degree/Y3T1/Game_Algorithm/Lab/SpaceShip/Content/enemyExplosion.wav</File>
+    <File>D:/MMU/Degree/Y3T1/Game_Algorithm/Lab/SpaceShip/Content/explosion_1.png</File>
+    <File>D:/MMU/Degree/Y3T1/Game_Algorithm/Lab/SpaceShip/Content/explosion_2.png</File>
+    <File>D:/MMU/Degree/Y3T1/Game_Algorithm/Lab/SpaceShip/Content/explosion_3.png</File>
+    <File>D:/MMU/Degree/Y3T1/Game_Algorithm/Lab/SpaceShip/Content/explosion_4.png</File>
+    <File>D:/MMU/Degree/Y3T1/Game_Algorithm/Lab/SpaceShip/Content/explosion_5.png</File>
+    <File>D:/MMU/Degree/Y3T1/Game_Algorithm/Lab/SpaceShip/Content/explosion_6.png</File>
+    <File>D:/MMU/Degree/Y3T1/Game_Algorithm/Lab/SpaceShip/Content/explosion_7.png</File>
+    <File>D:/MMU/Degree/Y3T1/Game_Algorithm/Lab/SpaceShip/Content/explosion_8.png</File>
+    <File>D:/MMU/Degree/Y3T1/Game_Algorithm/Lab/SpaceShip/Content/explosion_9.png</File>
+    <File>D:/MMU/Degree/Y3T1/Game_Algorithm/Lab/SpaceShip/Content/laserShooting.wav</File>
+    <File>D:/MMU/Degree/Y3T1/Game_Algorithm/Lab/SpaceShip/Content/mine.png</File>
+    <File>D:/MMU/Degree/Y3T1/Game_Algorithm/Lab/SpaceShip/Content/purple_1.png</File>
+    <File>D:/MMU/Degree/Y3T1/Game_Algorithm/Lab/SpaceShip/Content/purple_2.png</File>
+    <File>D:/MMU/Degree/Y3T1/Game_Algorithm/Lab/SpaceShip/Content/purple_sfx_1.wav</File>
+    <File>D:/MMU/Degree/Y3T1/Game_Algorithm/Lab/SpaceShip/Content/purple_sfx_2.wav</File>
+    <File>D:/MMU/Degree/Y3T1/Game_Algorithm/Lab/SpaceShip/Content/purple.png</File>
+    <File>D:/MMU/Degree/Y3T1/Game_Algorithm/Lab/SpaceShip/Content/red_blue_sfx.wav</File>
+    <File>D:/MMU/Degree/Y3T1/Game_Algorithm/Lab/SpaceShip/Content/red_purple_sfx.wav</File>
+    <File>D:/MMU/Degree/Y3T1/Game_Algorithm/Lab/SpaceShip/Content/red.png</File>
+    <File>D:/MMU/Degree/Y3T1/Game_Algorithm/Lab/SpaceShip/Content/spaceMeteors_002_small.png</File>
+    <File>D:/MMU/Degree/Y3T1/Game_Algorithm/Lab/SpaceShip/Content/spaceMissiles_015_right.png</File>
+    <File>D:/MMU/Degree/Y3T1/Game_Algorithm/Lab/SpaceShip/Content/spaceShips_009_right.png</File>
+    <File>D:/MMU/Degree/Y3T1/Game_Algorithm/Lab/SpaceShip/Content/sticky_1.wav</File>
+    <File>D:/MMU/Degree/Y3T1/Game_Algorithm/Lab/SpaceShip/Content/sticky_2.wav</File>
+    <File>D:/MMU/Degree/Y3T1/Game_Algorithm/Lab/SpaceShip/Content/sticky_3.wav</File>
+    <File>D:/MMU/Degree/Y3T1/Game_Algorithm/Lab/SpaceShip/Content/stickyMissile.png</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>
